@@ -39,3 +39,6 @@ int main()
 }
 
 ```
+放一下CHATGPT的解
+
+![](https://i.imgur.com/NEfB9KK.png)
