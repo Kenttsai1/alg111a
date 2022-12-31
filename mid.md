@@ -10,7 +10,7 @@
 
 因為三個空瓶可以換一瓶可樂，因此最後只會剩下一個或兩個空瓶。如果剩兩個空瓶時，借一個空瓶可以多喝一瓶可樂，還可以返還一個空瓶。
 
-## 程式碼
+## 程式碼 自己編寫的
 ``` cpp
 #include <iostream>
 using namespace std;
@@ -39,6 +39,6 @@ int main()
 }
 
 ```
-放一下CHATGPT的解
+放一下CHATGPT的解，理解後額外補充的
 
 ![](https://i.imgur.com/NEfB9KK.png)
